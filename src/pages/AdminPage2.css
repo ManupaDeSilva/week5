@@ -1,0 +1,317 @@
+.admin-page2-child {
+  position: absolute;
+  top: 0;
+  left: 0;
+  background-color: rgba(0, 0, 0, 0.7);
+  width: 722px;
+  height: 868px;
+}
+.contact,
+.gender,
+.last-name {
+  position: absolute;
+  top: 184px;
+  left: 56px;
+  color: var(--color-gray-100);
+}
+.contact,
+.gender {
+  top: 333px;
+  left: 410px;
+}
+.contact {
+  top: 415px;
+}
+.address,
+.email,
+.faculty,
+.password,
+.user-id,
+.which-year-student {
+  position: absolute;
+  top: 226px;
+  left: 56px;
+  color: var(--color-gray-100);
+}
+.email,
+.faculty,
+.password,
+.user-id,
+.which-year-student {
+  top: 265px;
+}
+.faculty,
+.password,
+.user-id,
+.which-year-student {
+  top: 333px;
+}
+.faculty,
+.user-id,
+.which-year-student {
+  top: 375px;
+  left: 410px;
+}
+.user-id,
+.which-year-student {
+  top: 415px;
+  left: 56px;
+}
+.user-id {
+  top: 300px;
+}
+.mension-the-sports,
+.registration-number,
+.which-sports-and {
+  position: absolute;
+  top: 375px;
+  left: 56px;
+  color: var(--color-gray-100);
+}
+.mension-the-sports,
+.which-sports-and {
+  top: 465px;
+}
+.mension-the-sports {
+  top: 552px;
+}
+.admin-page2-item,
+.first-name {
+  position: absolute;
+  top: 123px;
+  left: 81px;
+}
+.first-name {
+  top: 143px;
+  left: 56px;
+  color: var(--color-gray-100);
+}
+.kamal {
+  position: relative;
+}
+.container,
+.kamal-wrapper,
+.no55horana126roadcolombo-wrapper,
+.rd-year-wrapper,
+.s18554-wrapper,
+.s18554scipdnaclk-wrapper,
+.wrapper {
+  position: absolute;
+  top: 143px;
+  left: 179px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-smi);
+}
+.container,
+.no55horana126roadcolombo-wrapper,
+.rd-year-wrapper,
+.s18554-wrapper,
+.s18554scipdnaclk-wrapper,
+.wrapper {
+  top: 226px;
+}
+.container,
+.rd-year-wrapper,
+.s18554-wrapper,
+.s18554scipdnaclk-wrapper,
+.wrapper {
+  top: 265px;
+}
+.container,
+.rd-year-wrapper,
+.s18554-wrapper,
+.wrapper {
+  top: 333px;
+}
+.container,
+.rd-year-wrapper,
+.s18554-wrapper {
+  top: 375px;
+  left: 233px;
+}
+.container,
+.s18554-wrapper {
+  top: 417px;
+}
+.container {
+  top: 299px;
+  left: 179px;
+}
+.badminton-karate {
+  position: relative;
+  display: inline-block;
+  width: 463px;
+  flex-shrink: 0;
+}
+.badminton-karate-wrapper {
+  position: absolute;
+  top: 502px;
+  left: 56px;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 469px;
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-smi);
+}
+.badminton {
+  position: relative;
+  display: inline-block;
+  width: 345px;
+  flex-shrink: 0;
+}
+.badminton-wrapper,
+.jayasinghe-wrapper,
+.science-wrapper {
+  position: absolute;
+  background-color: var(--color-gray-200);
+  border: 1px solid var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+  padding: 0 var(--padding-smi);
+}
+.badminton-wrapper {
+  top: 591px;
+  left: 56px;
+  box-sizing: border-box;
+  width: 351px;
+}
+.jayasinghe-wrapper,
+.science-wrapper {
+  top: 415px;
+  left: 517px;
+}
+.jayasinghe-wrapper {
+  top: 184px;
+  left: 179px;
+}
+.hmkamal-jayasingha {
+  position: relative;
+  display: inline-block;
+  width: 281px;
+  height: 32px;
+  flex-shrink: 0;
+  -webkit-text-stroke: 1px rgba(0, 0, 0, 0.33);
+}
+.frame,
+.hmkamal-jayasingha-wrapper,
+.male-wrapper {
+  position: absolute;
+  border: 1px solid var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: center;
+}
+.hmkamal-jayasingha-wrapper {
+  top: 33px;
+  left: calc(50% - 128px);
+  border-radius: 11px;
+  background-color: rgba(152, 243, 238, 0.97);
+  box-sizing: border-box;
+  width: 311px;
+  height: 54px;
+  padding: 0 var(--padding-smi);
+  font-size: var(--font-size-5xl);
+}
+.frame,
+.male-wrapper {
+  top: 333px;
+  left: 517px;
+  background-color: var(--color-gray-200);
+  padding: 0 var(--padding-3xs);
+}
+.frame {
+  top: 375px;
+}
+.admin-page2-inner,
+.rectangle-div {
+  position: absolute;
+  top: 661px;
+  left: 73px;
+  background-color: var(--color-steelblue);
+  width: 254px;
+  height: 74px;
+}
+.rectangle-div {
+  left: 362px;
+  width: 271px;
+}
+.facility-booking-details-wrapper {
+  flex-shrink: 0;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.equipment-booking-details,
+.frame-div {
+  position: absolute;
+  font-size: var(--font-size-xl);
+}
+.frame-div {
+  top: 661px;
+  left: 80px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-3xs);
+}
+.equipment-booking-details {
+  top: 670px;
+  left: 370px;
+}
+.admin-page2-child1,
+.admin-page2-child2 {
+  position: absolute;
+  top: 699px;
+  left: 458px;
+  border-radius: var(--br-11xl);
+  background-color: var(--color-limegreen);
+  border: 1px solid var(--color-white);
+  box-sizing: border-box;
+  width: 60px;
+  height: 25px;
+  overflow: hidden;
+}
+.admin-page2-child2 {
+  left: 164px;
+}
+.view,
+.view1 {
+  position: absolute;
+  top: 702px;
+  left: 471px;
+}
+.view1 {
+  left: 177px;
+}
+.admin-page2 {
+  position: relative;
+  width: 100%;
+  height: 868px;
+  overflow: hidden;
+  background-image: url(/public/admin-page2@3x.png);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  text-align: left;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+  font-family: var(--font-inder);
+}

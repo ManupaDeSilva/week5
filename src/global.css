@@ -1,0 +1,51 @@
+@import url("https://fonts.googleapis.com/css2?family=Inder:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inter:wght@400;500;600&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arima+Madurai:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inria+Serif:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Inika:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Arimo:wght@400&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Aref+Ruqaa+Ink:wght@700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Bahnschrift:wght@400&display=swap");
+body {
+  margin: 0;
+  line-height: normal;
+}
+:root {
+  /* fonts */
+  --font-inder: Inder;
+  --font-bahnschrift: Bahnschrift;
+  --font-arima-madurai: "Arima Madurai";
+  --font-aref-ruqaa-ink: "Aref Ruqaa Ink";
+  --font-arimo: Arimo;
+  --font-inria-serif: "Inria Serif";
+  --font-inika: Inika;
+  --font-inter: Inter;
+
+  /* font sizes */
+  --font-size-base: 16px;
+  --font-size-xl: 20px;
+  --font-size-5xl: 24px;
+  --font-size-16xl: 35px;
+  --font-size-31xl: 50px;
+  --font-size-21xl: 40px;
+  --font-size-8xl-3: 27.3px;
+  --font-size-15xl-1: 34.1px;
+  --font-size-mid-1: 17.1px;
+
+  /* Colors */
+  --color-black: #000;
+  --color-limegreen: rgba(91, 228, 97, 0.97);
+  --color-white: #fff;
+  --color-steelblue: rgba(52, 150, 205, 0.7);
+  --color-gray-100: rgba(255, 255, 255, 0.97);
+  --color-gray-200: rgba(255, 255, 255, 0.6);
+  --color-crimson: #da3030;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+  --padding-smi: 13px;
+
+  /* Border radiuses */
+  --br-11xl: 30px;
+  --br-22xl: 41px;
+}
